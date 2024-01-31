@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="logo">Weather in your city</string>
+    <string name="user"> </string>
+    android:theme="@style/AppTheme">
+    <string name="user_act"> </string>
+    <string name="result_info"> </string>
+    <string name="button">weather forecast</string>
+    <string name="no_user_input">enter text</string>
+
+        <string name="button_label">Weather forecast</string>
+
+</resources>
